@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+types
+*.local
+.rsw
+test-crate/pkg
+test-crate/target
